@@ -1,0 +1,6 @@
+# heartandsole with required dependencies
+# heartandsole==0.0.23
+git+https://github.com/aaron-schroeder/heartandsole.git@course-file-reader
+# activereader==0.0.2
+git+https://github.com/aaron-schroeder/activereader.git
+pandas-xyz==0.0.5
